@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1vCN8jcBviwoEAU58V2Xr0o/qf3tSDhrZ2MUzHaJwJbOI1xxNhBzDGjXCflN45H/s69xNBXyuF0nbCOycBtgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isima\\Downloads\\Tetris_\\Tetris_\\Tetris_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\isima\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\isima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\isima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
